@@ -10,8 +10,8 @@ This is sample demo/guide on how to interact with AWS lex Chatbot and use it to 
 
   - AWS SDK (npm install aws-sdk)
   - install NodeJs(This is not mandatory since you can also code directly in the AWS Lambda)
-  - Create a DynamoDB Table with a valid table name
-  - Create a Lambda Function that will save the data to the Table
+  - Create AWS DynamoDB Table with a valid table name
+  - Create a Lambda Function
 
 # Steps :
 > 1. Go to the AWS Management Console
